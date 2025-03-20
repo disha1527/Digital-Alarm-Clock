@@ -19,6 +19,8 @@
 <p>HTML, CSS for the user interface.</p>
 <p>JavaScript for real-time clock updates and alarm handling.</p>
 
+Live Demo: https://disha1527.github.io/Digital-Alarm-Clock/
+
 ![screencapture-file-C-Users-DELL-Desktop-clock-index-html-2025-03-20-10_04_36](https://github.com/user-attachments/assets/ab4f9f07-8ebc-455f-9c8e-82a5d36e82d9)
 
   
